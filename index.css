@@ -71,5 +71,5 @@
 .col-md-8{
    flex-wrap: wrap;
    justify-content:center;
-   align-content:space-between
+   align-content:space-between;
 }
