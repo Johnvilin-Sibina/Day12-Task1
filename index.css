@@ -43,28 +43,28 @@
  }
  #three{
       border-radius: 15px;
-      background: rgba(15, 16, 20, 0.842);
+      background-color: rgba(15, 16, 20, 0.842);
       width: 160px;
       height: 110px;
       display: inline-block;
  }
  #four{
    border-radius: 15px;
-   background: rgba(15, 16, 20, 0.842);
+   background-color: rgba(15, 16, 20, 0.842);
    width: 160px;
    height: 110px;
    display: inline-block;
  }
  #five{
    border-radius: 15px;
-   background: rgba(15, 16, 20, 0.842);
+   background-color: rgba(15, 16, 20, 0.842);
    width: 160px;
    height: 110px;
    display: inline-block;
  }
  .fourth{
    border-radius: 15px;
-   background: rgba(15, 16, 20, 0.842);
+   background-color: rgba(15, 16, 20, 0.842);
    width: 687px;
    height: 140px;
 }
