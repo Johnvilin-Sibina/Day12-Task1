@@ -1,3 +1,6 @@
-This repository contains two files - one HTML file and one CSS file. The file index.css is the external CSS file for the HTML file index.html
-Here I have the code for the day 12 task - Github-profile-page.
-I have used bootstrap to add responsiveness to the page. 
+<h1>Day 12 Task - Git Hub Profile Page Design</h1>
+<ul>
+  <li>The file index.html contains the HTML code.</li>
+  <li>The file index.css is the external CSS file for the HTML file index.html.</li>
+  <li>I have used bootstrap to add responsiveness to the page.</li>
+</ul> 
